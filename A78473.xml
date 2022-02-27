@@ -1,0 +1,230 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Certain materiall considerations touching the differences of the present times, collected by a faithfull pursuer of peace and truth.</title>
+            <author>Faithfull pursuer of peace and truth.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 33 KB of XML-encoded text transcribed from 7 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A78473</idno>
+            <idno type="STC">Wing C1703</idno>
+            <idno type="STC">Thomason E246_4</idno>
+            <idno type="STC">ESTC R1181</idno>
+            <idno type="EEBO-CITATION">99859143</idno>
+            <idno type="PROQUEST">99859143</idno>
+            <idno type="VID">158374</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A78473)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 158374)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 42:E246[4])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Certain materiall considerations touching the differences of the present times, collected by a faithfull pursuer of peace and truth.</title>
+                  <author>Faithfull pursuer of peace and truth.</author>
+               </titleStmt>
+               <extent>12 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>Printed 1642. [i.e. 1643]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Annotation on Thomason copy: "Feb: 6".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  History --  Charles I, 1625-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-09</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2011-09</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:158374:1" rendition="simple:additions"/>
+            <p>CERTAIN MATERIALL <hi>CONSIDERATIONS</hi> Touching the differences of the preſent times, collected by a faithfull pur<g ref="char:EOLhyphen"/>ſuer of Peace and Truth.</p>
+            <q>
+               <bibl>
+                  <hi>1 COR. 13.8.</hi>
+               </bibl> We can doe nothing againſt the truth, but for the truth.</q>
+            <q>
+               <bibl>
+                  <hi>1 THES. 5.21.</hi>
+               </bibl> Prove all things, hold faſt that which is good.</q>
+            <q>
+               <bibl>
+                  <hi>JAM. 3.17.</hi>
+               </bibl> The wiſdom that is from above, is firſt pure, then peaceable, gentle and eaſie to be entreated.</q>
+            <p>London, Printed 1642.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:158374:2"/>
+            <opener>
+               <salute>Right Honourable,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">T</seg>Heſe Collections which I herewith ſend, having paſſed the cenſure of ſome learned Friends with good appro<g ref="char:EOLhyphen"/>bation, I preſume to commend to your Honours peruſall and finall diſpoſing: If I be out in any thing I ſhall ac<g ref="char:EOLhyphen"/>cept it as a great favour if your Honour wil ſtoop to ad<g ref="char:EOLhyphen"/>vertiſe me of it. The notes upon the Obſervations I have not yet fairly copied out, being a weak ſcribe, in regard of my continuing infirmi<g ref="char:EOLhyphen"/>ties: otherwiſe I had adventured them with theſe, (as I had a good while ſince deſigned them) to your Honours hands: glad would my heart have been (as I preſume many more) if the pen or tongue might rather have arbitrated theſe differences then the ſword, which puts no difference between good and evill; The good God look downe in mercy upon the Land, and put an happy end to theſe miſeries which otherwiſe are like to put a miſerable end to all our happineſſe. This is the conſtant prayer of<g ref="char:punc">▪</g>
+            </p>
+            <p>Late at night and in haſte</p>
+            <closer>
+               <signed>Your Honours humbly devoted and (in theſe times) nameleſſe ſervant in Chriſt Ieſus.</signed>
+            </closer>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:158374:2"/>
+            <head>To his Friend.</head>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <seg rend="decorInit">H</seg>Aving beene much troubled (even to reſtleſneſs) in my thoughts, about the tender and dangerous diſtractions of theſe times, I have oft and ear<g ref="char:EOLhyphen"/>neſtly beſought Almighty God in my prayers, that he would ſo aſsiſt mee with his ſpirit, that I might honeſtly ſet my ſelfe to ſeeke the truth, ſo ſeeking might find it, and finding it might cheerfully embrace it, and conſtantly cleave unto it, in what caſe or danger ſoever I ſhould finde it. To this end I tasked my ſelfe to the ſaddeſt and ſevereſt Meditations my weake body and Intellectuals could undergo: which being (I truſt by the guidance of GOD) reſolved into theſe enſuing <hi>Hypotheſes,</hi> I commit to your judicious and moſt impartiall cen<g ref="char:EOLhyphen"/>ſure; being not ſo fond of my own fancies, but that I can endure to ſee them ſtript naked, and if they prove not the iſſues of Truth, to diſinherit them from ever having further poſſeſsion of my thoughts. I ſee not many things, and heare not all; living ſo re<g ref="char:EOLhyphen"/>mote from any Town where the Tyde of Books and reports flows in. Some Pamphlets there are walking about with as much confidence (and finding as good entertainment) as Truth it ſelf needeth, and with a great deale leſſe modeſty then that uſeth to doe: Pleas, Appeals, Reaſons, &amp;c. which beg the queſtions I looked they ſhould prove, and left mee more unſa<g ref="char:EOLhyphen"/>tisfied (rather) then they found mee. I have hitherto (perhaps through fondneſſe) more contentment from theſe conceptions of my owne, which I entreat you to examine with all faithfulneſs and ſeverity: as knowing that you cannot doe your ſelf or me any greater injury, then to flatter me in falſhood; who am come (praiſed be God) ſo far towards wiſdome, as heartily to thank him who rebukes me in love, and lovingly to honour him who refutes me with reaſon.</p>
+            <closer>
+               <signed>Homo ſum, errare poſſum: Chriſtianus ſum, Haereticus eſſe nolo. PHILALETHES.</signed>
+            </closer>
+         </div>
+         <div type="notes">
+            <p>THe Book of Obſervations upon His Majeſties Anſwers and Ex<g ref="char:EOLhyphen"/>preſſes did moſt of all ſtumble me, but it was more by confoun<g ref="char:EOLhyphen"/>ding then convincing my reaſon: upon a due examination it ſee<g ref="char:EOLhyphen"/>med to me but a ſolid piece of Sophiſtry, or learned Impoſture, I have made ſome ſtrictures throughout upon him, you ſhall ſee and cenſure them if I may receive any intimation that you gueſſe them worth the looking on.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:158374:3"/>
+            <head>Conſcientiae laboro, non famae, non vitae.</head>
+            <p>
+               <hi>Whilst I was muſing the fire kindled, and at the laſt I ſpake with my pen; wri<g ref="char:EOLhyphen"/>ting but what I believe, and believing what I write to be the very truth, my conſcience bearing me witneſſe in the Holy Ghoſt.</hi>
+            </p>
+            <p>
+               <seg rend="decorInit">A</seg>Lthough the King and Parliament aſſembled together, are the moſt honourable and ſupream Court of the Kingdome, from whom there is no humane Appeal; yet they are ſtill to be loo<g ref="char:EOLhyphen"/>ked on but as a company of men ſubject to infirmities, paſſi<g ref="char:EOLhyphen"/>ons, and errours as others are: and therefore may determine (even where they concur) things evill in themſelves: or elſe we muſt grant that no Parliamentary Acts were ever evill in themſelves (and ſo needed no abrogation) but only inconvenient for time and occaſions, and ſo needed but ſuſpenſions, till fit ſeaſons of re-inforcing them might return. And if the whole may erre in their determinations, much more may the parts ſeve<g ref="char:EOLhyphen"/>rally and alone.</p>
+            <p n="2">2. In ſo great a number it is probable there ſtill will be, (as it is certain now there are) ſome of green yeers, ſlender parts, ſmall experience, little, or no learning either in Arts, or Law: and I may adde (from the cenſures of ſome part of that Court upon the other) of (at leaſt) ſuſpected integrity: who as they are choſen by popular voices (wherein ſiniſter References of times beare no ſmall ſway) ſo are they (probably) lead in Voting by Popular Arguments tending moſt to liberty: being incompetent Judges of the Method's and My<g ref="char:EOLhyphen"/>ſteries of State-government. Whence it will follow, that ſince number of Voyces, and not depth of Argument carries it; the fitteſt and juſteſt Propoſi<g ref="char:EOLhyphen"/>tions, may be oft overborn by number, which cannot be confuted by reaſon.</p>
+            <p n="3">3 As it is true, that <hi>no evill ought to be imagined of the Parliament,</hi> ſo is it as true that <hi>No evill ought to be imagined of the King;</hi> and yet it is not untrue, that where there is none, the <hi>Greateſt evill</hi> may be ſuſpected, and the <hi>Greateſt evill</hi> may be where <hi>None</hi> is imagined.</p>
+            <p n="4">4 Though no Evill ought to be imagined of the Parliament, <hi>conjunctim</hi> and in the lumpe: <hi>viz.</hi> That what the King and Both Houſes ſhall faitly and freely conclude upon and enact, will prejudice no man; yet in regard of particular Members, when I know evill by them, I may ſuſpect evill from them. Elſe why doth one part of the Parliament not only ſuſpect, but ſay ſo much, and ſo great evill of the other? Whilſt they mutually repute each other enemies to the State, which of all Civill evils is the greateſt.</p>
+            <p n="5">
+               <pb n="5" facs="tcp:158374:3"/>5 When there is a noiſe of extream danger (which all men fear) and then earneſt undertaking for prevention, (which all men deſire) it is eaſie to conceive, how readily men will aſſent, without a due examination either of the immi<g ref="char:EOLhyphen"/>nence of the danger, or lawfulneſſe of the prevention: eſpecially men of the weaker ſort, not well able to judge of either.</p>
+            <p n="6">6 When it is poſsible that no one in either houſe of Parliament may bee learned in the Laws, ſince Noblemen, Knights, Gentlemen, Citizens and Townſ-men (of which they conſiſt) are not neceſſarily ſo to be, nor one more then Another: I ſee not how the judgment of the Law can fully and properly reſide in them; eſpecially when the King conſents not. And ſo much ſeems implyed by the ſitting of the Judges in the houſe; who (for ought I heare) have no other office there, but to adviſe or advertiſe in point of Law.</p>
+            <p n="7">7 When it is ſaid, that the judgment of the major part of both houſes is the judgment of the Parliament, and conſequently of the Kingdom; I conceive it is not rightly affirmed. For (beſides that the judgment of the Clergy is not (ſo much as in a ſhadow) there repreſented, who are a conſiderable part of the Kingdome, and ſhould be preſumed to have as good judgment, and be as good men as others:) I reſigne not my judgment but obedience to the Parliament: and not barely to the Burgeſſes of my own Town (whom perhaps I think ve<g ref="char:EOLhyphen"/>ry unfit, and who were choſen againſt my will,) but to the reſult determinati<g ref="char:EOLhyphen"/>ons of both houſes; and not to them only neither, but as all are allowed, con<g ref="char:EOLhyphen"/>firmed, and perfected by the Kings aſſent. For I am repreſented in the Com<g ref="char:EOLhyphen"/>mons but as ſubordinate to the King, and to joyn with the King and the Lords (not without, or againſt both, or either of them) to make Lawes for the good of the Kingdom. So that when the Act is made by the concurrence of all three States; then, and (I ſuppoſe) not till then, it becomes obligatory, and as a peaceable Subject I muſt obey, if it be lawfull before God; though my judg<g ref="char:EOLhyphen"/>ment be ſtill free, and at home, and I do think it inexpedient, as the Negative part of Votes do. For it is impoſsible, and againſt Reaſon and Nature, that an underſtanding Mans judgement, backt with ſtrength of Argument ſhould bee led captive meerly by the ods of two or three voices.</p>
+            <p n="8">8 The major part of the houſes being that part, which exceeds the other though but by three or foure voices: ſhall not that Law which is concluded only by the advantage of thoſe voices, without the Kings conſent, be a <hi>Lesbian</hi> Rule, or a Noſe of wax; which upon a ſecond Vote may paſſe the contrary way, upon a caſuall abſence or preſence of ſo ſmall a number? The Law is a ſtrait Rule, and always like it ſelfe. If ſuch or ſuch a thing be Law after it was ſo voted by the major part of the houſes, it was Law before it was ſo voted; unleſſe an abſolute power of New-law-making be in ſuch a Vote) and ſo might
+<pb n="6" facs="tcp:158374:4"/>be put in execution without a new voting: only the Law ought to be produced. If the major part of the Votes of both Houſes be only Declarative of the Law, then in reaſon the firſt Voting ſhould ſtand, or elſe this will bee a very uncer<g ref="char:EOLhyphen"/>taine rule: And ſo the caſe of ordering the <hi>Militia</hi> ſhould not be according to Law, becauſe it was firſt, and twice countervoted by the Houſe of Lords. Such broad and obvious exceptions ought in matters of ſo high concernment, to be fully cleered and removed.</p>
+            <p n="9">9. When the queſtion is, <hi>Who ſhall be Iudge of Law?</hi> I conceive it muſt bee meant, either of the ſence of particular Laws, or of the latitude and ſcope of the Law in generall. If of the firſt, I ſuppoſe the ſence will appeare, either firſt, By the cleere light it hath in it ſelfe, (as the Sun ſhewes its own light) or ſecondly, By references to other Laws or clauſes touching the ſame argument which are more perſpicuous. Or thirdly, By the uſance and practice, which is the life of Laws. If none of theſe can make it plain, in my judgement it becomes no Law, but is obſolete, until a ful ſence be agreed on again by that ful Authority which firſt made the Law. Otherwiſe I ſee not how any rule for declaring of Law can be alwayes abſolutely determinative. For (beſides that the ſame thing is at divers votings, diverſly voted) If the Votes of either Houſe ſhould chance (as poſſibly they may) to be equally divided, and the major part of both Hou<g ref="char:EOLhyphen"/>ſes ſeverally, be neceſſarily required to determine; where ſhall the determina<g ref="char:EOLhyphen"/>tion be, when the Votes of one (at leaſt) are equally ballanced? Unleſſe we fly to a third way, <hi>viz.</hi> the major part of both Houſes in groſſe, where the excep<g ref="char:EOLhyphen"/>tion lyes as full, becauſe even then alſo they may chance to be equall. If it be underſtood of the Second, then that Latitude or Scope ought to be evinced frome ſome Termes in the Law expreſſed, (which termes are to be produced) and not from the pleaſure of any who ſhall ſay that is lawfull which ſeems ſo to them: eſpecially when they make themſelves the ſole Judges of Law and Equity. For whither will not ſuch a liberty reach? A Tranſition is ſo made, <hi>à genere ad genus,</hi> from poſitive law to the law of reaſon; and that, being vari<g ref="char:EOLhyphen"/>ous according to diverſity of apprehenſions, cannot bee impoſed upon all, where the full Legiſlative power is not concurrent. And I conceive it is no<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> pro<g ref="char:EOLhyphen"/>perly ſaid, That in extreame danger, I may by Law doe that which otherwiſe I may not do: but that in ſuch a caſe, I may doe that and be excuſed, which by Law I cannot doe. As in an aſſault (I thinke) the Law doth not ſay, you may <hi>kill a man,</hi> or <hi>take away his weapon,</hi> but if you doe it, The Law will not puniſh you, becauſe it is againſt all reaſon, that where the Law affords me no help, it ſhould not hold me excuſed for helping my ſelfe, when Neceſſity (which hath no law) is ſo preſſing, that otherwiſe I muſt periſh.</p>
+            <p n="10">10 When neceſsitie and extream danger are made the grounds, for (other<g ref="char:EOLhyphen"/>wiſe)
+<pb n="7" facs="tcp:158374:4"/>doubtfull and dangerous undertakings, it were meet thoſe Termes were rightly defined, that ſo we might cleerly ſee the foundneſſe of our warrant. I conceive it to be, when a man is ſo preſently diſtreſſed, that hee can make no poſsible uſe of any poſitive law to helpe him, and ſo becomes in a ſort diſob<g ref="char:EOLhyphen"/>liged from it, and left free to the law of Nature, which prompts every thing to ſeeke the preſervation of it ſelfe. This neceſsity diſpenceth with ordinary duties both to God and man. But we muſt be ſure of the neceſsity before we aſſume the liberty. If a man ſteale, and plead neceſsity, he ſhall not be excuſed becauſe the Law hath not left him remedileſſe in his want. I may not take a<g ref="char:EOLhyphen"/>nothers ſword from him, becauſe I have cauſe to feare he will hurt me; nor the ſword that I have lent one, though he hath threatned to kill me, ſo long as he drawes it not upon me, nor offereth force unto me: Becauſe I have yet a re<g ref="char:EOLhyphen"/>medy by law, and may bind him to the Peace, <hi>&amp;c.</hi> And then much leſſe may I wreſt his away that hath ſworne to defend me. When neceſsity is but ſuppo<g ref="char:EOLhyphen"/>ſed, no Simple and abſolute neceſsity is confeſſed, and ſo no law under pre<g ref="char:EOLhyphen"/>tence of neceſsitie is yet to be violated. The Kingdome may be in danger and yet the danger not extreame; nor any neceſsity ſuch, but that it may bee pre<g ref="char:EOLhyphen"/>ſerved by ordinary defence: or if the danger be urgent, we may not ſeeke to prevent that without Law, which by law is well provided for already. In great dangers (ſuch as now are ſuppoſed) the Kingdome is to be put into a po<g ref="char:EOLhyphen"/>ſture of defence againſt Forraigne Invaſion, or Domeſtick Tumult and Rebel<g ref="char:EOLhyphen"/>lion. By Law and Cuſtome the King is to order it. [And ſo much is acknow<g ref="char:EOLhyphen"/>ledged by the preſent Parliament in their Reply to the Kings Anſwer of the 29. of January: where (ſpeaking of the Forts and Caſtles of the Kingdome) they have theſe words. <hi>viz. We confeſse the nomination of any perſon to thoſe places, be<g ref="char:EOLhyphen"/>ing ſo principall and inſeparable a Flower of your Crowne veſted in you, and derived to you from your Anceſtours, by the fundamentall Laws of the Kingdome, you may reſerve to your ſelfe.</hi> And anon after ſpeaking of the <hi>Militia,</hi> They ſay, <hi>Which Militia <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e likewiſe acknowledge by the Law is ſubject to no command but of your Majeſtie, and of Authority lawfully derived from you<g ref="char:punc">▪</g>
+               </hi>] Now the King carefully applying himſelfe to it; I ſee not what neceſsity, or diſobliging extremity can juſtly be alleadged to diſpoſſeſſe him of it, when he is not convinced to have failed in his duty. To doubt that he will faile, is not to prove that he hath, but rather that yet hee hath not done it. If the Enemie were landed, or the Subjects aſſaulted (which are degrees beyond our dangers, (at leaſt) when this fell firſt into debate) the ordering of defence would be ſtill in the King; (unleſſe where particular out<g ref="char:EOLhyphen"/>rages, enforced particular places to the defence of themſelves by the law of Neceſsitie, which awaiteth no Lawes.) But if the King bee regardleſſe of his Truſt and his peoples ſafety, and let the Enemy graze along his Kingdome; or
+<pb n="8" facs="tcp:158374:5"/>any of his Miniſters prove falſe to the State, and either take with a Forraigne, or become themſelves a home Enemy, and the King ſtrive not to ſuppreſſe them, or (all which far be it to imagine) do animate and incite them to deſpoyle his good Subjects; Then (and I ſuppoſe not till then) is the danger in extre<g ref="char:EOLhyphen"/>mity, and then is the plea juſt for the Lawes of neceſsity<g ref="char:punc">▪</g> which doe not on<g ref="char:EOLhyphen"/>ly enable the State in common, but every man in particular to ſeeke the preſer<g ref="char:EOLhyphen"/>vation of himſelfe and of his Countrey, by all ſuch wayes as ſtand not in op<g ref="char:EOLhyphen"/>poſition to the Law of God.</p>
+            <p n="11">11 When I proteſt to defend the power and priviledges of Parliament; It is but ſo far as lawfully I may, and ſo far as I know them, or ought to know them being eaſy to be knowne, <hi>viz.</hi> ſuch as by Cuſtome and unanimous Conſent have obtained as unqueſtionable, not ſuch as are quarrelled among themſelves, ſome claiming, and others gainſaying: nor ſuch as are challenged, without, or againſt the King; who being part of the Parliament, ought to have Conſent in the concluding of Priviledges; at leaſt ought not to be unpriviledged with<g ref="char:EOLhyphen"/>out his conſent whoſe priviledges are proteſted for, as well as (and with) the reſt, and the defence of them ſworne to in the oath of Supremacy: Where wee ſweare <hi>(to our power) to aſsiſt and defend all Iuriſdiction, priviledge, preheminence and Authority graunted or belonging to the Kings Highnes, his Heires</hi> &amp;c. If the diſpoſing of the Navy, Forts, Magazines, and <hi>Militia</hi> bee (as tis confeſſed they are) by the Law of the Land the Priviledge of the King, there can be no diſtinction (to my apprehenſion) imagined, upon any feares, or iealouſies whatſoever, (where no evill is by him actually practiſed, and all intentions of evill are abſolutely ab<g ref="char:EOLhyphen"/>jured) to warrant any men, (few or moe, in Parliament, or out of Parliament, who have taken that Oath) to diſpoſſeſſe him of them, or detaine them from him, in what manner ſoever hee ſhall come to demand them. For the Oath is peremptory and unlimited, <hi>&amp; non eſt diſtinguendum ubi lex non diſtinguit.</hi> To ſay they are de<g ref="char:EOLhyphen"/>tained for him, (not from him) might have ſome colour if the King were either a child, diſtracted, or Weake minded: But to an adult and underſtanding Prince, ſuch a pretence is a higher derogation, by diſparaging his wiſdome or fidelity.</p>
+            <p n="12">12 Where power is inveſted in any; and by cuſtome, and free conſent of all is made hereditary: I conc<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ave it cannot afterwards be limited with other con<g ref="char:EOLhyphen"/>ditions then at firſt were agreed on, without the conſent of him that hath it.</p>
+            <p n="13">13 That which is certainly lawfull, and but doubtfully dangerous, is to be choſen rather then that which is not certainly lawfull, and but doubtfully ſafe, When A man offers no violence, (though upon good reaſon I feare he will hurt me) to let his ſword alone is certainly lawfull, and but doubtfully dangerous: To wreſt it from him when he makes no aſſault, is not certainly lawfull, (but rather certainly unlawfull) and but doubtfully ſafe: (or rather undoubtedly dange<g ref="char:EOLhyphen"/>rous)
+<pb n="9" facs="tcp:158374:5"/>for by that occaſion a quarrell may be made, and bloud ſhed, which might otherwiſe poſſibly (at leaſt) have bin ſaved. I would the application were not eaſie.</p>
+            <p n="14">14 If a man being illegally diſpoſſeſſed of his right, doe (in heat of contenti<g ref="char:EOLhyphen"/>on) uſe ſome illegall meanes for the recovery of it, that is not to be drawne into argument to juſtifie the illegallity of the firſt uſurpation. If a man unaſſaulted wreſt my ſword from me, and I afterwards beat him, he may not draw my after<g ref="char:EOLhyphen"/>beating into argument, to juſtifie his taking my ſword from mee.</p>
+            <p n="15">15 When the envy of not yeilding to the adviſe of his great Councell, is caſt upon his Majeſtie; It is fit to ſet the caſe upon its owne leggs. It ſeemes by ma<g ref="char:EOLhyphen"/>ny paſſages in the obſervations, and other bookes and by more then Booke-paſ<g ref="char:EOLhyphen"/>ſages, that the King is eſteemed a Tyrant over his people. For what elſe is im<g ref="char:EOLhyphen"/>plyed in the diſtruſting and Vilepending of his Oathes, Obteſtations, Impreca<g ref="char:EOLhyphen"/>tions, Execrations? In reputing the Attendance and Company about him (whom he ownes and protects) Enemyes to the State in raiſing at leaſt defen<g ref="char:EOLhyphen"/>ſive Armes? in ſeizing his Navy, Shutting the Towne Gates againſt him, and poſſeſſing his Forts and Magazines againſt his Command? For will a man wreſt anothers ſworde from him, if he do not preſume he will draw it upon him? Nay, is it lawfull to take any mans ſword (if any mans then) till it be drawne upon him, or ſome violence offered him, or threats given him? [If it be ſaid then it is too late, it may as well be ſaid, till Then it is too ſoone] Now then, When they are ſo opinioned, and jealous of the Kings love and fidelity; how can it be imagined that he ſhould looke on them as Ingenuous and Equall Counſellours, and not be as diſtruſtfull of the ſincerity of their adviſe? For how ſhall I per<g ref="char:EOLhyphen"/>ſwade another to be directed by me as his friend, when I give him to underſtand that I take him for mine Enemy, that intends miſcheife againſt me? eſpecially when the matter is not of ordinary concernment, wherein each ones Rights are left free and untouched; but ſuch as trencheth deep into his Majeſties Preroga<g ref="char:EOLhyphen"/>tive, and tendeth not only to the ſpanning of his power, but mainly alſo to the quenching of his honour; whilſt by yeilding to ſuch adviſe, he muſt tacitely confeſſe that he is not worthy to be truſted, and by conſequence openly proclaime that he is unworthy to be King.</p>
+            <p n="16">16 If the (ſo called Malignant party ſhould chance to be the prevailing part in the houſes, The King puts the caſe in his Anſwer to the Declaration of the 26 of May, <hi>pag.</hi> 8. and ſhould alleadge that through the precipitancy of ſome mens pretended zeale, the Kingdom were like to run into confuſion, (for ſuch a caſe may be, and <hi>[Conſpiracy for pretended Reformation]</hi> was the Title and Argument of a Book many yeers ſince) and therefore muſt be ſafely ſecured: and preſuming the King favours that ſide, and not liking the courſe that he will take to ſecure the Kingdom, they ſhould vote it lawfull for them to doe it themſelves without
+<pb n="10" facs="tcp:158374:6"/>him: muſt this preſently be concluded to be the judgement of the whole King<g ref="char:EOLhyphen"/>dome, and to be according to Law, when no law can be produced? and the King to bee ill-affected to his beſt Subjects, or to be miſled by evill Counſellours to un<g ref="char:EOLhyphen"/>doe himſelfe and all his Kingdome, by not yielding to the adviſe of his great Counſell? or will the Adverſe part take it well to be reputed Enemyes to the State, a malignant Party, evill Counſellors <hi>&amp;c?</hi> If not, It were but meet that the ſubſtantiall differences of the caſe were ſo well opened, that they that deſire to know what is iuſt and right might tell where to find it; and that all men of mo<g ref="char:EOLhyphen"/>derate Capacity and Ingenuity, might cleerly ſee the Infallibility of the one par<g ref="char:EOLhyphen"/>ty, and the Hypocrify of the other.</p>
+            <p n="17">17 When the Forts, Magazines, Navy, Offices, <hi>&amp;c.</hi> are ſaid to be intruſted to the King, or the King intruſted with them for the good of the Kingdome; The fence of the word <hi>Intruſted,</hi> in this place would be cleered. Not to queſtion whether the King have theſe things by way of Truſt from the people; it will be of all granted, (as it is by the King himſelfe) that God &amp; the Law have truſted him with them, and that for the good of the Kingdom: and ſo to imploy them he is further tyed by his Oath. But there is a twofold truſt, one that is Abſolute and unlimited, otherwiſe then that the end is ſpecified, ſuppoſed, or preſumed: end not ſo much limiting the Truſt, as the Truſt denoting &amp; implying the end. And there is a Truſt conditionate and circumſcribed in ſuch ſort, that to faile in the performance is to forfeit the Truſt. The firſt gives a man a right to the thing intruſted; The ſecond gives him only a right to the truſt of the thing. I conceive the Kings Truſt is of the firſt kind, who being preſumed to mean All good to his people, (according to the Maxime in Politicks, <hi>No evill ought to be imagined of the King</hi>) hath theſe things frankly and abſolutely committed to his Governance and diſpoſing: And however he ſhall order them, I ſuppoſe he is accountable to no man, nor queſtionable by any, unleſſe he cleerely, publickly, and undoubtedly diſpoſe of them to the ruine of his Kingdom; and ſo puts the people to an evident extremity or lawleſſe neceſsity. If there be any limits the Law ſhould expreſſe them, For he being Supream, there is no other power to impoſe them. Neither are the actions of his Miniſters to be cenſured, unleſſe by them the known Lawes have bin violated. If this Truſt muſt be managed or re<g ref="char:EOLhyphen"/>gulated by both Houſes of Parliament; Firſt that Power ſhould be made appear to the King and the People, and then there muſt either be a ſtanding Court of Parliament, or elſe one muſt be called ſo oft as the King ſhall have occaſion to ſend out Ships, take out, or put in powder or Amunition into his Magazines, chuſe any Officers, &amp;c. which is uncouth to co<g ref="char:cmbAbbrStroke">̄</g>ceive. If a man having confidence of his Friend, ſhall ſay to him, Sir, I will freely give up my whole eſtate into your hands, only you ſhall ſweare you will be a Father to my Children, here is
+<pb n="11" facs="tcp:158374:6"/>implication of a Truſt, and yet a clean right in the thing<g ref="char:punc">▪</g> ſo that he may ſet or ſell, build or pull down, give or lend, and yet be accountable to none, nor falſifie his Truſt, ſo long as the Children want nothing (yea, and if he fail<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of the truſt, perhaps ſome Court of Conſcience may relieve them but I believe no poſitive Law can controule him. The caſe is otherwiſe with Feoffees, or Executors in Truſt, who have a right only to the Truſt, and none to the thing intruſted, which is wholly the Heires, the poor's or Legatiries to whom it was bequeathed.</p>
+            <p n="18">18 The Kings and Subjects intereſts are mutuall He refers to every ſubject, and every ſubject unto him, as the Lines from the Centre to the Circle: And what intereſt he hath in one, he hath in another, and in all as well as in any: And his intereſt in them is of an higher Alloy, and more noble. As command i<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, then ſubjection. The intereſt of protection is motuall. The <gap reason="illegible" resp="#PDCC" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> is, that all the people are more worth then the King, but King &amp; people and more worth then either.</p>
+            <p n="19">19 Perſonall differences of wiſdome of folly, weakneſſe or ſtrength, cou<g ref="char:EOLhyphen"/>rage or cowardiſe, meaneſſe or excellency of parts or arts, make no difference in the Right of the King; though they ſhow a great difference in Gods dealing with the Kingdome.</p>
+            <p n="20">20 When a King playes the Tyrant, or uſurps upon his peoples juſt Liberties, I conceive it muſt be either firſt by a violent ſuppreſsion of old Laws and Cu<g ref="char:EOLhyphen"/>ſtomes yet in force, or ſe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>ondly by a wilfull obtruſion of new Laws by force, or thirdly by a wicked oppreſsion by force without Law. When therefore Ty<g ref="char:EOLhyphen"/>ranny is imputed to, or implyed in a prince, (of or againſt: whom, we ought not lightly to thinke any evill, or receive any accuſation) it will become Chriſtians thoroughly to examine upon what points he is convinced, and not to take up ſuch reports by whole ſale and in groſ<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                  <desc>••</desc>
+               </gap>.</p>
+            <p n="21">21 If the King have not a Negative, he ſeems not to have ſo much power in Parliamentary Acts as one common Burgeſſe: For if the Voyce be even be<g ref="char:EOLhyphen"/>fore, that Burgeſſes may be the caſting voyce of the Houſe, and I ſee not ſo much as a vote allowed his Majeſty.</p>
+            <p n="22">22 When the King ſhall think it not fit to give his conſent to what the major part of Parliament ſhall agree upon, He is not barely to be conſidered, as one ſingle man: againſt ſo many: For beſides his Privy Counſell at hand, men ac<g ref="char:EOLhyphen"/>cuſtomed to, and experienced in matters of State: and beſides that poſſibly a very great number of both Houſes are alſo of the Kings mind; we are to con<g ref="char:EOLhyphen"/>ſider the King as one beſt acquainted with the Rules and Myſteries of Govern<g ref="char:EOLhyphen"/>ment, being (as it were) the Trade to, and is which he hath bin born, bred, and brought up: And therefore is preſumed alone to ſee further into it, then many others together. For (beſides that God hath a ſpeciall way of communicating wiſdom to Kings, in which regard <hi>A miſe ſentence is ſaid to be in the lips of the King. Prov.</hi> 16.10. <hi>And the heart of Kings is unſearchable,</hi> Prov. 25.3.) Hyſtories make it
+<pb n="12" facs="tcp:158374:7"/>plain, that there are <hi>Ar<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>dya Imperij</hi> and <hi>Militi<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>,</hi> which the King and Captains apprehend when a thouſand doe not and which perhaps may not be fit for all men, (nay not for any man elſe) to know.</p>
+            <p n="23">23 When an Adult and Prudent Prince ſhall owne, approve of, and protect ſuch and ſuch Perſons as his tryed and known Friends or Counſellours: If Any (under what pretence ſoever of their ſuggeſting evill Counſell, when no evill practices are apparent, yea when ſuch Councels and Practices are utterly diſ<g ref="char:EOLhyphen"/>avowed and abjured by the King) ſhall preſume, not only without the Kings conſent, but againſt his expreſſe Command, to take up Armes to deſtroy and take off ſuch Perſons: though no Evill <hi>(quod abſit)</hi> be intended againſt his Per<g ref="char:EOLhyphen"/>ſon; And yet who can tell what is in his heart that comes towards a man with a drawn ſword in his hand <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>) I ſee not what Diſtinction can help, but that ſuch Arms are taken (not for, but,) againſt the King. Otherwiſe how can any thing be ſaid to be done againſt God; who being inviolable in his Perſon, cannot o<g ref="char:EOLhyphen"/>therwiſe be reſiſted, then by the blaſpheming of his Name, breaking his Com<g ref="char:EOLhyphen"/>mands, rejecting his. Motions proſecuting, and perfecuting his Servants, &amp;c.</p>
+            <p n="24">24 When it is ſaid, <hi>The King was made for the people, and not the people for the King;</hi> (beſides, that the Compariſon is as idle as that of the Members againſt the Belly in the Apologue, &amp; the Apoſtle hath met with it, 1 <hi>Cor.</hi> 12.) it is (alſo) not abſolutly true. For the King was no more made a man for others the<g ref="char:cmbAbbrStroke">̄</g> they were for him, nor made a King more for the good and ſafety of the People then the people were put into ſuch a poſture of order &amp; obedienche, that e might be ſafe as well as They: yea rather He, then Any (if not then many) of them, as be<g ref="char:EOLhyphen"/>ing ſuppoſed the chiefeſt among them. The ſenſe wherein it ſeems beſt to hold is; That <hi>The King was made for the need or neceſsity of the people, and not They for his: Viz.</hi> He can more ſecurely be no King, then the People can be without a King. And He takes the ſurrender of their Power with the Dependances, and Con<g ref="char:EOLhyphen"/>ſequences, not as a kindneſſe from Them, but as doing a kindneſſe to Them; (as is implyed in the refuſall of the Vine, Fig-tree, and Olive-tree to rule over the reſt, in <hi>Jotham's Parable, Judg.</hi> 9.7. &amp;c. and in the Hiſtory of <hi>Jepthah, Judges</hi> 11.4. &amp;c.) For on him<g ref="char:punc">▪</g> They unload their Cares and Feares, who forgoes his Own private Eaſe and Quiet, that He may procure it to his People: Himſelfe taking care that all men elſe may live without Care. Now on whom the Ne<g ref="char:EOLhyphen"/>ceſſity lyeth moſt, on Them lyes the greateſt Obligation to reſpect. Therefore Saint <hi>Paul</hi> requires <hi>giving of thanks: for Kings,</hi> 1 <hi>Tim.</hi> 2.2. So may we ſay a Cap<g ref="char:EOLhyphen"/>tain, a Pilot, a Phyſician, a Schoolmaſter were made for the need of their <hi>Correlates,</hi> which ſhould render Them more honourable, and rather draw re<g ref="char:EOLhyphen"/>ſpects to Them, then challenge greater obſervance from Them.</p>
+            <epigraph>
+               <q>
+                  <hi>Iudge Righteous Iudgment.</hi>
+               </q>
+            </epigraph>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
